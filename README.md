@@ -3,7 +3,7 @@ Node Express Handlebars
 
 A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). Uses Node and MySQL to query and route data in your app, and Handlebars to generate HTML.
 
-###How it works:
+####How it works:
 
 * Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
 
@@ -13,4 +13,4 @@ A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!).
 
 * The app will store every burger in a database, whether devoured or not.
 
-Heroku App Link: https:
+Check out the deployed app on Heroku [here](https://obscure-beyond-92895.herokuapp.com/)! 
